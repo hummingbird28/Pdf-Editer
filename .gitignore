@@ -1,0 +1,5 @@
+.env
+output_pages/
+downloads/
+__pycache__/
+test*

@@ -1,0 +1,4 @@
+swibots
+python-decouple
+pypdf2
+pillow
